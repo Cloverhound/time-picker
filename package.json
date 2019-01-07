@@ -1,6 +1,6 @@
 {
   "name": "rc-time-picker-ch",
-  "version": "3.6.0",
+  "version": "3.6.2",
   "description": "React TimePicker",
   "keywords": [
     "react",
@@ -23,7 +23,7 @@
   "author": "wuzhao.mail@gmail.com",
   "repository": {
     "type": "git",
-    "url": "git@github.com:react-component/time-picker.git"
+    "url": "https://github.com/Cloverhound/time-picker.git"
   },
   "bugs": {
     "url": "http://github.com/react-component/time-picker/issues"
